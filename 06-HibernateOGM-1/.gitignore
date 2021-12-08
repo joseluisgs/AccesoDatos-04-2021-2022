@@ -1,0 +1,5 @@
+# Project exclude paths
+/target
+/out
+/ObjectStore
+/PutObjectStoreDirHere
