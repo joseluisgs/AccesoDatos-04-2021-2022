@@ -19,7 +19,7 @@ Tema 04 Bases de Datos NoSQL. 2DAM. Curso 2021/2022.
 
 ## Ejemplos
 [Blog - JPA con ObjectDB](https://github.com/joseluisgs/Blog-JPA-ObjectDB-AccesoDatos-2021-2022)
-[Blog - MongoDB](https://github.com/joseluisgs/Blog-JPA-ObjectDB-AccesoDatos-2021-2022)
+[Blog - MongoDB](https://github.com/joseluisgs/Blog-MongoDB-AccesoDatos-2021-2022)
 [Blog - JPA con MongoDB](https://github.com/joseluisgs/Blog-JPA-Hibernate-OGM-AccesoDatos-2021-2022)
 [Cliente REST y GraphQL](https://github.com/joseluisgs/api-client-acceso-datos)
 
