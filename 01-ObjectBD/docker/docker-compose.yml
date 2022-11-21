@@ -1,0 +1,29 @@
+# Indicamos la versión
+# Para iniciar docker-compose up -d
+version: '3.7'
+
+# Mis servicios
+# Iniciamos los servicios
+services:
+  # ObjectDB
+  objectdb:
+    image: diegopansica/objectdb:2.8.4
+    container_name: objectdb
+    ports:
+      - 6136:6136
+    expose:
+      - 6136
+    volumes:
+      - objectdb-volume
+    networks:
+      - objectdb-network
+    # restart: always
+# Mi volumenes de datos compartidos
+
+volumes:
+  objectdb-volume:
+
+# Si queremos que tengan una red propia a otros contenedores
+networks:
+  objectdb-network:
+    driver: bridge

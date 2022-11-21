@@ -1,0 +1,90 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-12-15 13:09:05 #1 store.file] 
+readTextFile error.
+
+[2021-12-15 13:09:05 #2 store.file] 
+java.io.FileNotFoundException: /Users/link/.objectdb/exolorer.xml (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.objectdb.o.STH.B(STH.java:731)
+	at com.objectdb.o.STH.A(STH.java:715)
+	at com.objectdb.o.CNF.<init>(CNF.java:106)
+	at com.objectdb.o.CNF.<clinit>(CNF.java:32)
+	at com.objectdb.o.MainFrame.init(MainFrame.java:132)
+	at com.objectdb.o.EXA.<init>(EXA.java:77)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+[2021-12-15 13:09:05 #3 store] 
+Database '/Users/link/OneDrive - IES Luis Vives/Docencia/2DAM-AccesoDatos/UD04/01-ObjectBD/db/empleados.odb' is opened by 2692@FoxMacPro.local
+
+[2021-12-15 13:09:05 #4 store] 
+Configuration path: ?
+
+[2021-12-15 13:09:05 #5 store.file] 
+readTextFile error.
+
+[2021-12-15 13:09:05 #6 store.file] 
+java.io.FileNotFoundException: /Users/link/.objectdb/exolorer.xml (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.objectdb.o.STH.B(STH.java:731)
+	at com.objectdb.o.STH.A(STH.java:715)
+	at com.objectdb.o.CNF.<init>(CNF.java:106)
+	at com.objectdb.o.CNF.f(CNF.java:130)
+	at com.objectdb.o.CNC.s(CNC.java:119)
+	at com.objectdb.o.EXA.<init>(EXA.java:87)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+[2021-12-15 13:11:13 #7 store] 
+Database '/Users/link/OneDrive - IES Luis Vives/Docencia/2DAM-AccesoDatos/UD04/01-ObjectBD/db/empleados.odb' is closed by 2692@FoxMacPro.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-12-15 13:18:42 #1 store] 
+Database '/Users/link/OneDrive - IES Luis Vives/Docencia/2DAM-AccesoDatos/UD04/01-ObjectBD/db/empleados.odb' is opened by 2856@FoxMacPro.local
+
+[2021-12-15 13:18:42 #2 store] 
+Configuration path: ?
+
+[2021-12-15 13:21:16 #3 store] 
+Database '/Users/link/OneDrive - IES Luis Vives/Docencia/2DAM-AccesoDatos/UD04/01-ObjectBD/db/empleados.odb' is closed by 2856@FoxMacPro.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-12-15 13:29:40 #1 store] 
+Database '/Users/link/OneDrive - IES Luis Vives/Docencia/2DAM-AccesoDatos/UD04/01-ObjectBD/db/empleados.odb' is opened by 3040@FoxMacPro.local
+
+[2021-12-15 13:29:40 #2 store] 
+Configuration path: ?
+
